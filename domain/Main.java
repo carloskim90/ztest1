@@ -9,9 +9,9 @@ public class Main {
 	
 	public static void main(String[] args) {
 		
-//		Scanner scan = new Scanner(System.in);
-//		QuestionUI ui = new QuestionUI(scan);
-//		ui.solveQuestion(0);
+		Scanner scan = new Scanner(System.in);
+		QuestionUI ui = new QuestionUI(scan);
+		ui.solveQuestion(0);
 		
 	}
 	
